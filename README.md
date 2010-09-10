@@ -10,9 +10,9 @@ for your own project.
 Usage
 -----
 
-  git clone git://github.com/panter/ch.panter.projectzero.git
-  cd ch.panter.projectzero
-  mvn install
+    git clone git://github.com/panter/ch.panter.projectzero.git
+    cd ch.panter.projectzero
+    mvn install
 
 Features
 --------
